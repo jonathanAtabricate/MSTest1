@@ -20,6 +20,7 @@ namespace MSTest1
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.
     /// </summary>
+    /// Test Notes
     sealed partial class App : Application
     {
         /// <summary>
